@@ -8,9 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		D9FDD4181CEDCA2F00A29974 /* FrameAccessor.h in Headers */ = {isa = PBXBuildFile; fileRef = D9FDD4171CEDCA2F00A29974 /* FrameAccessor.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D9FDD4231CEDCA7600A29974 /* ScrollViewFrameAccessor.h in Headers */ = {isa = PBXBuildFile; fileRef = D9FDD41F1CEDCA7600A29974 /* ScrollViewFrameAccessor.h */; };
+		D9FDD4231CEDCA7600A29974 /* ScrollViewFrameAccessor.h in Headers */ = {isa = PBXBuildFile; fileRef = D9FDD41F1CEDCA7600A29974 /* ScrollViewFrameAccessor.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9FDD4241CEDCA7600A29974 /* ScrollViewFrameAccessor.m in Sources */ = {isa = PBXBuildFile; fileRef = D9FDD4201CEDCA7600A29974 /* ScrollViewFrameAccessor.m */; };
-		D9FDD4251CEDCA7600A29974 /* ViewFrameAccessor.h in Headers */ = {isa = PBXBuildFile; fileRef = D9FDD4211CEDCA7600A29974 /* ViewFrameAccessor.h */; };
+		D9FDD4251CEDCA7600A29974 /* ViewFrameAccessor.h in Headers */ = {isa = PBXBuildFile; fileRef = D9FDD4211CEDCA7600A29974 /* ViewFrameAccessor.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D9FDD4261CEDCA7600A29974 /* ViewFrameAccessor.m in Sources */ = {isa = PBXBuildFile; fileRef = D9FDD4221CEDCA7600A29974 /* ViewFrameAccessor.m */; };
 /* End PBXBuildFile section */
 
