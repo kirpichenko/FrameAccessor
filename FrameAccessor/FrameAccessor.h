@@ -15,10 +15,7 @@ FOUNDATION_EXPORT double FrameAccessorVersionNumber;
 FOUNDATION_EXPORT const unsigned char FrameAccessorVersionString[];
 
 #import <FrameAccessor/ViewFrameAccessor.h>
-
-#if (TARGET_IPHONE_SIMULATOR || TARGET_OS_IPHONE)
 #import <FrameAccessor/ScrollViewFrameAccessor.h>
-#endif
 
 
 

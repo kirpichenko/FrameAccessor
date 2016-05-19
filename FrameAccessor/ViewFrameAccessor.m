@@ -8,8 +8,7 @@
 
 #import "ViewFrameAccessor.h"
 
-
-@implementation View (FrameAccessor)
+@implementation UIView (FrameAccessor)
 
 #pragma mark Frame
 
